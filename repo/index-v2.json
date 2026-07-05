@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783236855097,
+    "timestamp": 1783241225043,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -135,6 +135,47 @@
           "manifest": {
             "versionName": "7.0",
             "versionCode": 7,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "net.felectronika.netvideo.netvideo": {
+      "metadata": {
+        "name": {
+          "en-US": "Netvideo"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "net.felectronika.netvideo.netvideo_icon.png",
+            "sha256": "af4559643a8c05c6f5b6e30c3292ba4c3ed0cd6e51d6f73f9149a152ac951dbb",
+            "size": 2251
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "Netvideo_1.27.apk",
+            "sha256": "4c2f58efd320848e1ff391e3af89a62f8815a67309974b7bf5b89ddc17647c11",
+            "size": 4427546
+          },
+          "versionCode": 27,
+          "versionName": "1.27",
+          "manifest": {
+            "versionName": "1.27",
+            "versionCode": 27,
             "usesSdk": {
               "minSdkVersion": 21
             }
