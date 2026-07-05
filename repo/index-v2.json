@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783233308985,
+    "timestamp": 1783236855097,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -53,6 +53,47 @@
           "manifest": {
             "versionName": "1.2",
             "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.example.maglinktv.net": {
+      "metadata": {
+        "name": {
+          "en-US": "MagLink TV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.example.maglinktv.net_icon.png",
+            "sha256": "8e714e13dd67b4acabad7990d5c5245ce58562ddbf55447ea9120358b1a63cff",
+            "size": 18135
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "MagLink TV 1.5.0.world_tv.apk",
+            "sha256": "428a5aebd19baef3affd1ee7c5770b715fe168aa5ab35afa60541e5802e6a1f2",
+            "size": 23790627
+          },
+          "versionCode": 242424,
+          "versionName": "1.5.0",
+          "manifest": {
+            "versionName": "1.5.0",
+            "versionCode": 242424,
             "usesSdk": {
               "minSdkVersion": 21
             }
