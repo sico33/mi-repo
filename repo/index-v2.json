@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783232039335,
+    "timestamp": 1783233308985,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -53,88 +53,6 @@
           "manifest": {
             "versionName": "1.2",
             "versionCode": 3,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "fifa.nx": {
-      "metadata": {
-        "name": {
-          "en-US": "FIFA+ NX"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "fifa.nx_icon.png",
-            "sha256": "7864fd0cdcfd967ee37f3dabcdb65693cfed21044b229242660b8304f5a1aa4d",
-            "size": 108695
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "FIFA+ NX.apk",
-            "sha256": "f366d151527d46c8d36590d1b745b4be43aa12a32701addd294c7cdf582733ed",
-            "size": 32938321
-          },
-          "versionCode": 2,
-          "versionName": "1.0",
-          "manifest": {
-            "versionName": "1.0",
-            "versionCode": 2,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.wbd.strean": {
-      "metadata": {
-        "name": {
-          "en-US": "HBO Max"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.wbd.strean_icon.png",
-            "sha256": "0082684a3925a0fdd0fa5770db3ba77806d46e61925915f5a1e1495178e2d1be",
-            "size": 9300
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "HBO Max Premium v6.17.0.77 - androforever.com.apk",
-            "sha256": "201a0e7e777951d6f3b403295045122ed7d25b087a4a6e03eca1043441edfa26",
-            "size": 87275752
-          },
-          "versionCode": 35389866,
-          "versionName": "6.17.0.77",
-          "manifest": {
-            "versionName": "6.17.0.77",
-            "versionCode": 35389866,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -217,47 +135,6 @@
           "manifest": {
             "versionName": "7.0",
             "versionCode": 7,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.google.android.tvonline.tvonline3": {
-      "metadata": {
-        "name": {
-          "en-US": "TV CLASICA"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.google.android.tvonline.tvonline3_icon.png",
-            "sha256": "d97b3cfd5f7914a90a6ac1de2d122da5385cc560362c44159d34a2bdc371e252",
-            "size": 9487
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "TV CLASICA 100.apk",
-            "sha256": "733470eb1ae3c978002b815624b347fc74b5561bd72e45d8130dfb292b82233a",
-            "size": 8350299
-          },
-          "versionCode": 100000000,
-          "versionName": "100",
-          "manifest": {
-            "versionName": "100",
-            "versionCode": 100000000,
             "usesSdk": {
               "minSdkVersion": 21
             }
