@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783240416174,
+    "timestamp": 1783240798131,
     "version": 40001,
     "address": "https://localhost",
     "description": {
@@ -35,9 +35,9 @@
         ],
         "icon": {
           "en-US": {
-            "name": "com.angulismotv_icon.png",
-            "sha256": "ec59f56af38c8800e8d46856c4039eccb8f1115fa9de630a6bf582e760c4dadb",
-            "size": 221
+            "name": "icon.png",
+            "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+            "size": 0
           }
         }
       },
@@ -76,9 +76,9 @@
         ],
         "icon": {
           "en-US": {
-            "name": "fifa.nx_icon.png",
-            "sha256": "ec59f56af38c8800e8d46856c4039eccb8f1115fa9de630a6bf582e760c4dadb",
-            "size": 221
+            "name": "icon.png",
+            "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+            "size": 0
           }
         }
       },
@@ -117,9 +117,9 @@
         ],
         "icon": {
           "en-US": {
-            "name": "com.example.tvplusdos_icon.png",
-            "sha256": "d05107fbca8aab16d57627ffc0c01bbb49a5dfede962257c3ffc906bdb65d89b",
-            "size": 373
+            "name": "icon.png",
+            "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+            "size": 0
           }
         }
       },
