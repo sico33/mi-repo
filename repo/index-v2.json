@@ -1,0 +1,147 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Mi Repo TV Test"
+    },
+    "timestamp": 1783234250799,
+    "version": 40001,
+    "address": "https://localhost",
+    "description": {
+      "en-US": "Repositorio de prueba para Android TV"
+    },
+    "icon": {
+      "en-US": {
+        "name": "icon.png",
+        "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "size": 0
+      }
+    },
+    "mirrors": []
+  },
+  "packages": {
+    "com.angulismotv": {
+      "metadata": {
+        "name": {
+          "en-US": "AngulismoTV"
+        },
+        "summary": {
+          "en-US": "Apps de TV"
+        },
+        "description": {
+          "en-US": "Instalada desde repositorio de prueba"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "icon.png",
+            "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+            "size": 0
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "AngulismoTV.apk",
+            "sha256": "1981fbc4ba33a43961de8209e61c8d3c01cfe182b112fc8c12794cfa22145955",
+            "size": 10828443
+          },
+          "versionCode": 3,
+          "versionName": "1.2",
+          "manifest": {
+            "versionName": "1.2",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "fifa.nx": {
+      "metadata": {
+        "name": {
+          "en-US": "FIFA+ NX"
+        },
+        "summary": {
+          "en-US": "Apps de TV"
+        },
+        "description": {
+          "en-US": "Instalada desde repositorio de prueba"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "icon.png",
+            "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+            "size": 0
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "FIFA+ NX.apk",
+            "sha256": "f366d151527d46c8d36590d1b745b4be43aa12a32701addd294c7cdf582733ed",
+            "size": 32938321
+          },
+          "versionCode": 2,
+          "versionName": "1.0",
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 2,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.example.tvplusdos": {
+      "metadata": {
+        "name": {
+          "en-US": "TV PLUS 2"
+        },
+        "summary": {
+          "en-US": "Apps de TV"
+        },
+        "description": {
+          "en-US": "Instalada desde repositorio de prueba"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "icon.png",
+            "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+            "size": 0
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "tvplus2-2026.apk",
+            "sha256": "fa24ff9bc8fabe4858eadf2d6a4dd7119a7ca75391596d21a14759a6cfbc42ea",
+            "size": 10574597
+          },
+          "versionCode": 6,
+          "versionName": "1.6",
+          "manifest": {
+            "versionName": "1.6",
+            "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    }
+  },
+  "packages2": {}
+}
