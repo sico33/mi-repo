@@ -3,9 +3,9 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783231220852,
+    "timestamp": 1783231754867,
     "version": 40001,
-    "address": "https://localhost",
+    "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
       "en-US": "Repositorio con íconos para Android TV"
     },
@@ -241,8 +241,8 @@
         "icon": {
           "en-US": {
             "name": "com.example.tvplusdos_icon.png",
-            "sha256": "975a7b7ead7f474725ce5270d03208970958a9b21456d2ebac36fcc9fff6df96",
-            "size": 9706
+            "sha256": "593699c113551bee874a048a3532badc723728138a8ae6af691e4fa18c6e9cf5",
+            "size": 974310
           }
         }
       },
