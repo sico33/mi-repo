@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783241225043,
+    "timestamp": 1783275927692,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -60,6 +60,63 @@
         }
       ]
     },
+    "io.gh.reisxd.tizentube.cobalt": {
+      "metadata": {
+        "name": {
+          "en-US": "TizenTube"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "io.gh.reisxd.tizentube.cobalt_icon.png",
+            "sha256": "bd5d78373cfe35627646f694a9df1dea766e873aebb42fda405301ce96ea09da",
+            "size": 53616
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "cobalt-arm.apk",
+            "sha256": "59c7a8655424947cae7b4c29a65e723fb4ba6ddb45863473dc2a612470aa1e85",
+            "size": 39211445
+          },
+          "versionCode": 108,
+          "versionName": "1.0.8",
+          "manifest": {
+            "versionName": "1.0.8",
+            "versionCode": 108,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        },
+        {
+          "file": {
+            "name": "cobalt-arm64.apk",
+            "sha256": "726201ee466bbd757bcef8d3cbd5bb3cc9e61726e5af6e9b567d3503f31b06ed",
+            "size": 41031277
+          },
+          "versionCode": 108,
+          "versionName": "1.0.8",
+          "manifest": {
+            "versionName": "1.0.8",
+            "versionCode": 108,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
     "com.example.maglinktv.net": {
       "metadata": {
         "name": {
@@ -94,47 +151,6 @@
           "manifest": {
             "versionName": "1.5.0",
             "versionCode": 242424,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.play.premium": {
-      "metadata": {
-        "name": {
-          "en-US": "Magma+"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.play.premium_icon.png",
-            "sha256": "99e3258078b7c5bcff2fd4edd673698a67a005a9f21948c36fbde4542ea10ffb",
-            "size": 44797
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Magma+Plus.apk",
-            "sha256": "1fd63fd80aa6b9432e9788ad16d46acaa3dbb59c436897f98dc18c3a23715f91",
-            "size": 16874761
-          },
-          "versionCode": 7,
-          "versionName": "7.0",
-          "manifest": {
-            "versionName": "7.0",
-            "versionCode": 7,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -183,10 +199,10 @@
         }
       ]
     },
-    "com.example.playtvpremium": {
+    "com.my.myfamilypremiumbr": {
       "metadata": {
         "name": {
-          "en-US": "PlayTV Premium"
+          "en-US": "Perla Negra TV"
         },
         "summary": {
           "en-US": "App para Android TV"
@@ -199,24 +215,65 @@
         ],
         "icon": {
           "en-US": {
-            "name": "com.example.playtvpremium_icon.png",
-            "sha256": "7cfe812d6a2d6d86b539e247de2d8cd74ee4dd73aac83de8e49aecbd817d4631",
-            "size": 35602
+            "name": "com.my.myfamilypremiumbr_icon.png",
+            "sha256": "4dbb8a661a620896fc3665b32eefefb5d0384e1b6120679e177ea835d7e7815a",
+            "size": 33553
           }
         }
       },
       "versions": [
         {
           "file": {
-            "name": "PlayTV_Premium.apk",
-            "sha256": "6b0bb00cd110786c1e8690c88191ef5fd1bb1f5e4b7f478944eb1076aeee6f6e",
-            "size": 6889430
+            "name": "Perla Negra TV.apk",
+            "sha256": "5e70a46aeebcbf6d7cf8fd54d533e8f3b763435e0cf793938c9678a3b4fdca96",
+            "size": 49671771
           },
-          "versionCode": 7,
-          "versionName": "7.0",
+          "versionCode": 383,
+          "versionName": "3.0.8",
           "manifest": {
-            "versionName": "7.0",
-            "versionCode": 7,
+            "versionName": "3.0.8",
+            "versionCode": 383,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.streamflixreborn.streamflix": {
+      "metadata": {
+        "name": {
+          "en-US": "Streamflix"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.streamflixreborn.streamflix_icon.png",
+            "sha256": "a9363c5a06762821bec216aa791eb7fb0f40b4c8fcc270c54f6e37dca85d9351",
+            "size": 11391
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "streamflix-v1.7.225.apk",
+            "sha256": "1be9062ab34fe71c5b9e8259670820ef11b105369cc6f1bfe5e15b2d9f5e1df1",
+            "size": 19428040
+          },
+          "versionCode": 154,
+          "versionName": "1.7.225",
+          "manifest": {
+            "versionName": "1.7.225",
+            "versionCode": 154,
             "usesSdk": {
               "minSdkVersion": 21
             }
