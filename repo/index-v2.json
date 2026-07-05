@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783231754867,
+    "timestamp": 1783232039335,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -94,6 +94,47 @@
           "manifest": {
             "versionName": "1.0",
             "versionCode": 2,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.wbd.strean": {
+      "metadata": {
+        "name": {
+          "en-US": "HBO Max"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.wbd.strean_icon.png",
+            "sha256": "0082684a3925a0fdd0fa5770db3ba77806d46e61925915f5a1e1495178e2d1be",
+            "size": 9300
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "HBO Max Premium v6.17.0.77 - androforever.com.apk",
+            "sha256": "201a0e7e777951d6f3b403295045122ed7d25b087a4a6e03eca1043441edfa26",
+            "size": 87275752
+          },
+          "versionCode": 35389866,
+          "versionName": "6.17.0.77",
+          "manifest": {
+            "versionName": "6.17.0.77",
+            "versionCode": 35389866,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -258,6 +299,47 @@
           "manifest": {
             "versionName": "1.6",
             "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "io.gh.reisxd.tizentube.fortaleza": {
+      "metadata": {
+        "name": {
+          "en-US": "YouTube Premium ®FOR"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "io.gh.reisxd.tizentube.fortaleza_icon.png",
+            "sha256": "b415a7a7a6f8c359454c5277241c2c697c94b103e9a23c5db9cad049a6d28eda",
+            "size": 2573
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "YouTube Premium•FOR®.apk",
+            "sha256": "a93db38ce1993fa4d356ed045a6e4de5d51a62b2b4d55310e8f49442916a9f37",
+            "size": 39476394
+          },
+          "versionCode": 1,
+          "versionName": ": Fortaleza EC ®",
+          "manifest": {
+            "versionName": ": Fortaleza EC ®",
+            "versionCode": 1,
             "usesSdk": {
               "minSdkVersion": 21
             }
