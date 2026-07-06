@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783299737150,
+    "timestamp": 1783302804492,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -461,6 +461,47 @@
         }
       ]
     },
+    "naranjitotv.aplimbw": {
+      "metadata": {
+        "name": {
+          "en-US": "NaranjitoTV "
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "naranjitotv.aplimbw_icon.png",
+            "sha256": "daf2da661d0a469666f1cbd0886feb293f7c3fc4e583a03283680c5c9a2dd274",
+            "size": 488671
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "NaranjitoTV _9.8 (1).apk",
+            "sha256": "846923ef1d661bc697288965bc962f96feaa5d0649618638bf5774719432f346",
+            "size": 33301953
+          },
+          "versionCode": 3,
+          "versionName": "9.8",
+          "manifest": {
+            "versionName": "9.8",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
     "com.netflix.ninja": {
       "metadata": {
         "name": {
@@ -536,6 +577,47 @@
           "manifest": {
             "versionName": "1.27",
             "versionCode": 27,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.m3u.smartphone": {
+      "metadata": {
+        "name": {
+          "en-US": "Netxxus Go"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.m3u.smartphone_icon.png",
+            "sha256": "f986d948fe7bb8bd6b75225814b78450c17e1d44c928bc2258b5e5791e3c7dda",
+            "size": 2493939
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "Netxxus Go_1.15.0.apk",
+            "sha256": "c6eb6ce26b5b29858d32265387d06d8e3fead7500dd64c9c1343642a7550ae19",
+            "size": 37227744
+          },
+          "versionCode": 144,
+          "versionName": "1.15.0",
+          "manifest": {
+            "versionName": "1.15.0",
+            "versionCode": 144,
             "usesSdk": {
               "minSdkVersion": 21
             }
