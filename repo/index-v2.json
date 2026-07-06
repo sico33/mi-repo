@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783305613865,
+    "timestamp": 1783353383164,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -461,6 +461,47 @@
         }
       ]
     },
+    "futbol.paraguayo3": {
+      "metadata": {
+        "name": {
+          "en-US": "FUTBOL PARAGUAYO TV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "futbol.paraguayo3_icon.png",
+            "sha256": "54887c70b9a45d783a272f7198112cb2377e98adf1209d72b9554cf7b5d0c36a",
+            "size": 35210
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "Futbolplay.apk",
+            "sha256": "b551587ee971147907be2d9f15bda2c8eb6bccdaf90ff195aaef8bece6ba983c",
+            "size": 20372089
+          },
+          "versionCode": 22,
+          "versionName": "9.8",
+          "manifest": {
+            "versionName": "9.8",
+            "versionCode": 22,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
     "com.android.vending": {
       "metadata": {
         "name": {
@@ -806,7 +847,7 @@
         "icon": {
           "en-US": {
             "name": "com.saltamontes.app_icon.png",
-            "sha256": "6f303720408d30f6656b750e5f47837300cdaed036e6b8e679cb476c178853fc",
+            "sha256": "e1dfd4da3e331199bf258fb7333bb7487984e6ac505436ac95e730951f479340",
             "size": 11580
           }
         }
@@ -847,7 +888,7 @@
         "icon": {
           "en-US": {
             "name": "com.google.android.gms_icon.png",
-            "sha256": "26ffb8ef7d117453c4cbd4547ea323ddaeaabcbbd59b5afec65a79615f09809f",
+            "sha256": "f49a47482295ebd0eadd63833d6fd766be0858988f2be5f32726d5a46d9ba63b",
             "size": 9896
           }
         }
