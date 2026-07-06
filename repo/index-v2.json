@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783303039123,
+    "timestamp": 1783305613865,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -258,6 +258,47 @@
           "manifest": {
             "versionName": "5.9",
             "versionCode": 59,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "app.azcode.tv": {
+      "metadata": {
+        "name": {
+          "en-US": "Chimichurri"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "app.azcode.tv_icon.png",
+            "sha256": "6302b4107db533f616ce69ca18a74612178a2b167c5ae0f5fa20b28f739b1732",
+            "size": 23935
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "chimichurritv-4.4.3.apk",
+            "sha256": "8e32aa6cc48a5d9151822d3afaaeff7875cb3ef231de9a81c4fea9d9e97b7a66",
+            "size": 4500573
+          },
+          "versionCode": 942,
+          "versionName": "4.4.3",
+          "manifest": {
+            "versionName": "4.4.3",
+            "versionCode": 942,
             "usesSdk": {
               "minSdkVersion": 21
             }
