@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783302804492,
+    "timestamp": 1783303039123,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -94,6 +94,47 @@
           "manifest": {
             "versionName": "2.21",
             "versionCode": 221,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "app.aksports.live": {
+      "metadata": {
+        "name": {
+          "en-US": "AK47Sports"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "app.aksports.live_icon.png",
+            "sha256": "105aac51b9b71cfd6e60150741efe6e62688c060fc04abf6c965ecce5c129c6c",
+            "size": 57140
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "AK47Sports_1.6 (1).apk",
+            "sha256": "155c60abca8963de55d1c39d875b0defb331b948bd8c55c1ee2b7b2a65d66643",
+            "size": 12147246
+          },
+          "versionCode": 7,
+          "versionName": "1.6",
+          "manifest": {
+            "versionName": "1.6",
+            "versionCode": 7,
             "usesSdk": {
               "minSdkVersion": 21
             }
