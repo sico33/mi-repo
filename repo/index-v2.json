@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783296795156,
+    "timestamp": 1783299737150,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -536,88 +536,6 @@
           "manifest": {
             "versionName": "1.27",
             "versionCode": 27,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.femonplus.tv": {
-      "metadata": {
-        "name": {
-          "en-US": "PlayTV Pro"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.femonplus.tv_icon.png",
-            "sha256": "54a36cfd007f44a1c16ca99baf1dbbc4008631a84536fe9cacf9b220485fa469",
-            "size": 1800
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "PlayTV-Pro-11.1.apk",
-            "sha256": "5061c34708e74c935065cf8a29305e137858bd62d58544a8a05ba934319b0d6d",
-            "size": 13739304
-          },
-          "versionCode": 111,
-          "versionName": "11.1",
-          "manifest": {
-            "versionName": "11.1",
-            "versionCode": 111,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.example.myapplication": {
-      "metadata": {
-        "name": {
-          "en-US": "PlayTV Pro"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.example.myapplication_icon.png",
-            "sha256": "8a33ef33ec4216470144f99656f31cbd3db03f8660c3d8ba521a6d5fcb2fa718",
-            "size": 728
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "PlayTV-Pro-12.1.apk",
-            "sha256": "5dae0e2030730f517f72a90fe0d806deea1ab4faf885407ed237724566ab2d4b",
-            "size": 14936866
-          },
-          "versionCode": 121,
-          "versionName": "12.1",
-          "manifest": {
-            "versionName": "12.1",
-            "versionCode": 121,
             "usesSdk": {
               "minSdkVersion": 21
             }
