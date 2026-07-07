@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783433834408,
+    "timestamp": 1783456587213,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -888,7 +888,7 @@
         "icon": {
           "en-US": {
             "name": "com.saltamontes.app_icon.png",
-            "sha256": "e1dfd4da3e331199bf258fb7333bb7487984e6ac505436ac95e730951f479340",
+            "sha256": "6f303720408d30f6656b750e5f47837300cdaed036e6b8e679cb476c178853fc",
             "size": 11580
           }
         }
@@ -929,7 +929,7 @@
         "icon": {
           "en-US": {
             "name": "com.google.android.gms_icon.png",
-            "sha256": "f49a47482295ebd0eadd63833d6fd766be0858988f2be5f32726d5a46d9ba63b",
+            "sha256": "26ffb8ef7d117453c4cbd4547ea323ddaeaabcbbd59b5afec65a79615f09809f",
             "size": 9896
           }
         }
@@ -946,6 +946,47 @@
           "manifest": {
             "versionName": "26.24.34 (180300-938041327)",
             "versionCode": 262434118,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "stream.tvbox": {
+      "metadata": {
+        "name": {
+          "en-US": "Stream TV Box"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "stream.tvbox_icon.png",
+            "sha256": "c4453d5ecd011d7e0bfc63276b87d811fa75106d1f349ab763ce55b65d14bca8",
+            "size": 43463
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "Stream TV Box_9.8 (3).apk",
+            "sha256": "3706b2bf5e1eee0da8892b45bbea73661661bc98f7b4992f9f00bf49a50520a4",
+            "size": 33632631
+          },
+          "versionCode": 2,
+          "versionName": "9.8",
+          "manifest": {
+            "versionName": "9.8",
+            "versionCode": 2,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -1303,7 +1344,7 @@
           "en-US": "ZUPER TV"
         },
         "summary": {
-          "en-US": "Es necesario tener el codigo de activacion de BIXPLUS"
+          "en-US": "Es necesario tener el codigo de activacion de BIXPLUS - NO FUNCIONA EN FIRETV STICK"
         },
         "description": {
           "en-US": "Repositorio personal"
