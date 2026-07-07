@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783356195070,
+    "timestamp": 1783385818107,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -356,6 +356,47 @@
           "manifest": {
             "versionName": "1.0.8",
             "versionCode": 108,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.pro.cricztv": {
+      "metadata": {
+        "name": {
+          "en-US": "CricZ TV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.pro.cricztv_icon.png",
+            "sha256": "35df5062e20730dd0cd8571f473a613d6a8a3c96fab2d14dfe6741b7197fa8dc",
+            "size": 25004
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "CricZ TV v7.3 - Ad-Free.apk",
+            "sha256": "ff2106d6a9030c3e0f86a423df5c04db24dbe68ecd5f43412d18d5676f9fdec5",
+            "size": 15729434
+          },
+          "versionCode": 10,
+          "versionName": "7.3",
+          "manifest": {
+            "versionName": "7.3",
+            "versionCode": 10,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -1167,6 +1208,47 @@
           "manifest": {
             "versionName": "4.99.2",
             "versionCode": 49902,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.zuper.fire": {
+      "metadata": {
+        "name": {
+          "en-US": "ZUPER TV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.zuper.fire_icon.png",
+            "sha256": "72bbc4730078409e1be1ced33cc61d5f2cfdab4bf4f6ec286e091844c607a483",
+            "size": 1059
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "ZUPER TV_1.48.apk",
+            "sha256": "722362a6c932a12c1d71e974b3d48683d604efc59d1b964fd72ea16285845042",
+            "size": 37637162
+          },
+          "versionCode": 20008,
+          "versionName": "1.48",
+          "manifest": {
+            "versionName": "1.48",
+            "versionCode": 20008,
             "usesSdk": {
               "minSdkVersion": 21
             }
