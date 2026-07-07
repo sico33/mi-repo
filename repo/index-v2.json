@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783385818107,
+    "timestamp": 1783433486644,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -847,7 +847,7 @@
         "icon": {
           "en-US": {
             "name": "com.saltamontes.app_icon.png",
-            "sha256": "6f303720408d30f6656b750e5f47837300cdaed036e6b8e679cb476c178853fc",
+            "sha256": "e1dfd4da3e331199bf258fb7333bb7487984e6ac505436ac95e730951f479340",
             "size": 11580
           }
         }
@@ -888,7 +888,7 @@
         "icon": {
           "en-US": {
             "name": "com.google.android.gms_icon.png",
-            "sha256": "26ffb8ef7d117453c4cbd4547ea323ddaeaabcbbd59b5afec65a79615f09809f",
+            "sha256": "f49a47482295ebd0eadd63833d6fd766be0858988f2be5f32726d5a46d9ba63b",
             "size": 9896
           }
         }
@@ -1028,6 +1028,47 @@
           "manifest": {
             "versionName": "1.6",
             "versionCode": 6,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.example.vptv": {
+      "metadata": {
+        "name": {
+          "en-US": "VPTV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.example.vptv_icon.png",
+            "sha256": "50871c1e8c7ae1fa681ff48637aac4c3192e88773060acc653de33094cdef45c",
+            "size": 260906
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "VPTV_5.12.apk",
+            "sha256": "1193b978e0bb0038d95b0cbb5a9e8d97767b47702205950b074a1d179ef43c42",
+            "size": 27379700
+          },
+          "versionCode": 36,
+          "versionName": "5.12",
+          "manifest": {
+            "versionName": "5.12",
+            "versionCode": 36,
             "usesSdk": {
               "minSdkVersion": 21
             }
