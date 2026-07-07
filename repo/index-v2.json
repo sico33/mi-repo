@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783433486644,
+    "timestamp": 1783433834408,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -536,6 +536,47 @@
           "manifest": {
             "versionName": "51.6.22-31 [8] [PR] 923140542",
             "versionCode": 85162218,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.nst.iptvsmarterstvbox": {
+      "metadata": {
+        "name": {
+          "en-US": "IPTV Smarters Pro"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.nst.iptvsmarterstvbox_icon.png",
+            "sha256": "2d75764d9c5ded2759ab86c0d87f2b856abd54dc3a1e5bbe7f40a658da6e1085",
+            "size": 33019
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "IPTV Smarters Pro v5.0 (Premium).apk",
+            "sha256": "673d07e65a7986f617300a40861b477e2de45650e58aab2e68cc0518f783bc24",
+            "size": 73565765
+          },
+          "versionCode": 108,
+          "versionName": "5.0",
+          "manifest": {
+            "versionName": "5.0",
+            "versionCode": 108,
             "usesSdk": {
               "minSdkVersion": 21
             }
