@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783456587213,
+    "timestamp": 1783483412326,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -271,7 +271,7 @@
           "en-US": "Chimichurri"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Ingresa a la seccion de Atualizaciones y compara si tenes la ultima version"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -369,7 +369,7 @@
           "en-US": "CricZ TV"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "App deportes"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -461,6 +461,47 @@
         }
       ]
     },
+    "com.epixplay.plus": {
+      "metadata": {
+        "name": {
+          "en-US": "EPIX PLAY"
+        },
+        "summary": {
+          "en-US": "Peliculas, series y TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.epixplay.plus_icon.png",
+            "sha256": "b93e0655af283b8dae2ea18b3e9abe2d7f8a612c19867f1cacdd61207775d2aa",
+            "size": 20952
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "EPIX PLAY Premium v3.8a - androforever.com.apk",
+            "sha256": "bfcea0f54a769fcbd9d7c27b6d00c011d6fd3c203ab2a111cbecd139952636b8",
+            "size": 59491517
+          },
+          "versionCode": 18,
+          "versionName": "3.8a",
+          "manifest": {
+            "versionName": "3.8a",
+            "versionCode": 18,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
     "jp.snowlife01.android.appkiller2": {
       "metadata": {
         "name": {
@@ -502,13 +543,54 @@
         }
       ]
     },
+    "com.example.myapplication": {
+      "metadata": {
+        "name": {
+          "en-US": "Femon Play"
+        },
+        "summary": {
+          "en-US": "Version Modificada"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.example.myapplication_icon.png",
+            "sha256": "c8ece08c84de976898eb10842cf690d94fd32f61e3f3daf012dc7c65f4ec56d3",
+            "size": 55066
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "Femon Play_8.0.apk",
+            "sha256": "5ad2fa45b6edacef69d84ece8fa7e9715929b96056e33bdc66d2c7aaed3a824c",
+            "size": 19863912
+          },
+          "versionCode": 10,
+          "versionName": "8.0",
+          "manifest": {
+            "versionName": "8.0",
+            "versionCode": 10,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
     "com.android.vending": {
       "metadata": {
         "name": {
           "en-US": "Google Play Store"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Solo para Box Chinas"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -590,7 +672,7 @@
           "en-US": "MagLink TV"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "App canales de TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -631,7 +713,7 @@
           "en-US": "NaranjitoTV "
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Deportes"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -672,7 +754,7 @@
           "en-US": "Netflix"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Version original Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -836,7 +918,7 @@
           "en-US": "Buttons remapper"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "App para reconfigurar control remoto"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -877,7 +959,7 @@
           "en-US": "Saltamontes"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "VPN automatica"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1041,7 +1123,7 @@
           "en-US": "Suffixed"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "App de PAGO (Ex Nebula)"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1082,7 +1164,7 @@
           "en-US": "TV PLUS 2"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "App de pago economica, 3 dispositivos por cuenta"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1164,7 +1246,7 @@
           "en-US": "Xuper"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Funciona solo con saltamontes"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1205,7 +1287,7 @@
           "en-US": "Xuper Hydra"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Funciona solo con saltamontes"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1246,7 +1328,7 @@
           "en-US": "Xuper"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Funciona solo con saltamontes"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1303,7 +1385,7 @@
           "en-US": "Xuper"
         },
         "summary": {
-          "en-US": "App para Android TV"
+          "en-US": "Funciona solo con saltamontes"
         },
         "description": {
           "en-US": "Repositorio personal"
