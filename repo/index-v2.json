@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783483412326,
+    "timestamp": 1783634945955,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -271,7 +271,7 @@
           "en-US": "Chimichurri"
         },
         "summary": {
-          "en-US": "Ingresa a la seccion de Atualizaciones y compara si tenes la ultima version"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -369,7 +369,7 @@
           "en-US": "CricZ TV"
         },
         "summary": {
-          "en-US": "App deportes"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -467,7 +467,7 @@
           "en-US": "EPIX PLAY"
         },
         "summary": {
-          "en-US": "Peliculas, series y TV"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -549,7 +549,7 @@
           "en-US": "Femon Play"
         },
         "summary": {
-          "en-US": "Version Modificada"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -590,7 +590,7 @@
           "en-US": "Google Play Store"
         },
         "summary": {
-          "en-US": "Solo para Box Chinas"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -631,7 +631,7 @@
           "en-US": "IPTV Smarters Pro"
         },
         "summary": {
-          "en-US": "Ingresar a https://iptv-factory.com/ y generar un XTREAM"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -672,7 +672,7 @@
           "en-US": "MagLink TV"
         },
         "summary": {
-          "en-US": "App canales de TV"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -713,7 +713,7 @@
           "en-US": "NaranjitoTV "
         },
         "summary": {
-          "en-US": "Deportes"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -754,7 +754,7 @@
           "en-US": "Netflix"
         },
         "summary": {
-          "en-US": "Version original Android TV"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -795,7 +795,7 @@
           "en-US": "Netvideo"
         },
         "summary": {
-          "en-US": "Donde dice Por Favor ingresa la Dirección web o IP del Servidor, ingresa cualquiera de las dos siguientes: http://201.217.246.101:9009 http://45.226.28.9:8085"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -918,7 +918,7 @@
           "en-US": "Buttons remapper"
         },
         "summary": {
-          "en-US": "App para reconfigurar control remoto"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -959,7 +959,7 @@
           "en-US": "Saltamontes"
         },
         "summary": {
-          "en-US": "VPN automatica"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -970,7 +970,7 @@
         "icon": {
           "en-US": {
             "name": "com.saltamontes.app_icon.png",
-            "sha256": "6f303720408d30f6656b750e5f47837300cdaed036e6b8e679cb476c178853fc",
+            "sha256": "e1dfd4da3e331199bf258fb7333bb7487984e6ac505436ac95e730951f479340",
             "size": 11580
           }
         }
@@ -1011,7 +1011,7 @@
         "icon": {
           "en-US": {
             "name": "com.google.android.gms_icon.png",
-            "sha256": "26ffb8ef7d117453c4cbd4547ea323ddaeaabcbbd59b5afec65a79615f09809f",
+            "sha256": "f49a47482295ebd0eadd63833d6fd766be0858988f2be5f32726d5a46d9ba63b",
             "size": 9896
           }
         }
@@ -1123,7 +1123,7 @@
           "en-US": "Suffixed"
         },
         "summary": {
-          "en-US": "App de PAGO (Ex Nebula)"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1164,7 +1164,7 @@
           "en-US": "TV PLUS 2"
         },
         "summary": {
-          "en-US": "App de pago economica, 3 dispositivos por cuenta"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1199,13 +1199,54 @@
         }
       ]
     },
+    "com.ultratv.tv": {
+      "metadata": {
+        "name": {
+          "en-US": "Ultra TV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.ultratv.tv_icon.png",
+            "sha256": "6a52c9a7b8b24601f03cdcade0d33db6883ba86412db0070aa73a0b8350d2c47",
+            "size": 12183
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "ultra.apk",
+            "sha256": "b40c035c5fdede7a81392d8b5d8aa269429485bf7eb716b094b00744696f0db2",
+            "size": 4414580
+          },
+          "versionCode": 1,
+          "versionName": "1.0",
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
     "com.example.vptv": {
       "metadata": {
         "name": {
           "en-US": "VPTV"
         },
         "summary": {
-          "en-US": "Te va a pedir un código de 6 dígitos que lo vas a encontrar en este canal de telegram(bot): https://t.me/VPTV_jamc_bot"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1246,7 +1287,7 @@
           "en-US": "Xuper"
         },
         "summary": {
-          "en-US": "Funciona solo con saltamontes"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1287,7 +1328,7 @@
           "en-US": "Xuper Hydra"
         },
         "summary": {
-          "en-US": "Funciona solo con saltamontes"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1328,7 +1369,7 @@
           "en-US": "Xuper"
         },
         "summary": {
-          "en-US": "Funciona solo con saltamontes"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1385,7 +1426,7 @@
           "en-US": "Xuper"
         },
         "summary": {
-          "en-US": "Funciona solo con saltamontes"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
@@ -1426,7 +1467,7 @@
           "en-US": "ZUPER TV"
         },
         "summary": {
-          "en-US": "Es necesario tener el codigo de activacion de BIXPLUS - NO FUNCIONA EN FIRETV STICK"
+          "en-US": "App para Android TV"
         },
         "description": {
           "en-US": "Repositorio personal"
