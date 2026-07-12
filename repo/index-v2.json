@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783634945955,
+    "timestamp": 1783862924211,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -217,47 +217,6 @@
           "manifest": {
             "versionName": "4.2.1",
             "versionCode": 56,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "fun.gamergarden.blumos": {
-      "metadata": {
-        "name": {
-          "en-US": "Blu Movies"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "fun.gamergarden.blumos_icon.png",
-            "sha256": "6e8b03deec4d1655b56f100175f344d6fcef7b50e5b85f4f82908c3503e0c1da",
-            "size": 2240
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Blu_Movies_v5.9 Mod.apk",
-            "sha256": "75ee421ac7f9a5e49c0480b1dbeed806f10eed5623997bc1d236dfc7b650726e",
-            "size": 7200875
-          },
-          "versionCode": 59,
-          "versionName": "5.9",
-          "manifest": {
-            "versionName": "5.9",
-            "versionCode": 59,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -543,88 +502,6 @@
         }
       ]
     },
-    "com.example.myapplication": {
-      "metadata": {
-        "name": {
-          "en-US": "Femon Play"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.example.myapplication_icon.png",
-            "sha256": "c8ece08c84de976898eb10842cf690d94fd32f61e3f3daf012dc7c65f4ec56d3",
-            "size": 55066
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Femon Play_8.0.apk",
-            "sha256": "5ad2fa45b6edacef69d84ece8fa7e9715929b96056e33bdc66d2c7aaed3a824c",
-            "size": 19863912
-          },
-          "versionCode": 10,
-          "versionName": "8.0",
-          "manifest": {
-            "versionName": "8.0",
-            "versionCode": 10,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.android.vending": {
-      "metadata": {
-        "name": {
-          "en-US": "Google Play Store"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.android.vending_icon.png",
-            "sha256": "62d8d09724098ab7cb60423e8a86d4b932bdc5d472359e35aa528970a82a5e4a",
-            "size": 2692
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Google Play Store_51.6.22-31 [8] [PR] 923140542.apk",
-            "sha256": "c7f76ac1a010f4acdf5452cfbab56238e44e4afa73795989ab0d7c501a80d32c",
-            "size": 34029842
-          },
-          "versionCode": 85162218,
-          "versionName": "51.6.22-31 [8] [PR] 923140542",
-          "manifest": {
-            "versionName": "51.6.22-31 [8] [PR] 923140542",
-            "versionCode": 85162218,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "com.nst.iptvsmarterstvbox": {
       "metadata": {
         "name": {
@@ -700,6 +577,47 @@
           "manifest": {
             "versionName": "1.5.0",
             "versionCode": 242424,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.magmaplayer": {
+      "metadata": {
+        "name": {
+          "en-US": "Magma"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.magmaplayer_icon.png",
+            "sha256": "f25582522e7c2fe515dc505358477811f54b170824b461c29b3c87f6065e5253",
+            "size": 35690
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "Magma 1.0.9 Lista agregada.25.06.apk",
+            "sha256": "787831848eaf70ba7793dbc48e34e7a19a90553e3ee83a071aff52b668e323a9",
+            "size": 42923019
+          },
+          "versionCode": 10,
+          "versionName": "1.0.9",
+          "manifest": {
+            "versionName": "1.0.9",
+            "versionCode": 10,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -994,47 +912,6 @@
         }
       ]
     },
-    "com.google.android.gms": {
-      "metadata": {
-        "name": {
-          "en-US": "Google Play services"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.google.android.gms_icon.png",
-            "sha256": "f49a47482295ebd0eadd63833d6fd766be0858988f2be5f32726d5a46d9ba63b",
-            "size": 9896
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Servicios de Google Play_26.24.34 (180300-938041327).apk",
-            "sha256": "8d0dac13a2f24ee92f9f75d6deed477528f2ee82e6d9948c65755e40b8da5b89",
-            "size": 84858809
-          },
-          "versionCode": 262434118,
-          "versionName": "26.24.34 (180300-938041327)",
-          "manifest": {
-            "versionName": "26.24.34 (180300-938041327)",
-            "versionCode": 262434118,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "stream.tvbox": {
       "metadata": {
         "name": {
@@ -1199,47 +1076,6 @@
         }
       ]
     },
-    "com.ultratv.tv": {
-      "metadata": {
-        "name": {
-          "en-US": "Ultra TV"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.ultratv.tv_icon.png",
-            "sha256": "6a52c9a7b8b24601f03cdcade0d33db6883ba86412db0070aa73a0b8350d2c47",
-            "size": 12183
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "ultra.apk",
-            "sha256": "b40c035c5fdede7a81392d8b5d8aa269429485bf7eb716b094b00744696f0db2",
-            "size": 4414580
-          },
-          "versionCode": 1,
-          "versionName": "1.0",
-          "manifest": {
-            "versionName": "1.0",
-            "versionCode": 1,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "com.example.vptv": {
       "metadata": {
         "name": {
@@ -1356,6 +1192,47 @@
           "manifest": {
             "versionName": "4.34.4",
             "versionCode": 43404,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.android.mgstxNF": {
+      "metadata": {
+        "name": {
+          "en-US": "Xuper Tv NF"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.android.mgstxNF_icon.png",
+            "sha256": "93a09ef6d8a5a5dee1790fe813aae0125018ef0e747aefd7ea9f9b8454c87e17",
+            "size": 90024
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "XuperTv-N0F4C3-v6.72.0(1).apk",
+            "sha256": "de13a978cb536ddb3baa1e23f3780b400b867306ba46c219530babd6f9dd2e3d",
+            "size": 36165574
+          },
+          "versionCode": 60702,
+          "versionName": "6.72.0",
+          "manifest": {
+            "versionName": "6.72.0",
+            "versionCode": 60702,
             "usesSdk": {
               "minSdkVersion": 21
             }
