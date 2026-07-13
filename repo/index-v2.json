@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783920749706,
+    "timestamp": 1783974278480,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -643,6 +643,47 @@
           "manifest": {
             "versionName": "1.15.0",
             "versionCode": 144,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.playtv.premium": {
+      "metadata": {
+        "name": {
+          "en-US": "PlayTV Premium"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.playtv.premium_icon.png",
+            "sha256": "a6524bd9b8afbe995b1f62597b24cf6fac464f2d2150cb7e647c018525d1c885",
+            "size": 11276
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "PlayTV+Premium_20.1.apk",
+            "sha256": "3cef461cf19ad92d87571be6c974f40574f1f72da5ca44965961f1d531dc9dba",
+            "size": 12213247
+          },
+          "versionCode": 201,
+          "versionName": "20.1",
+          "manifest": {
+            "versionName": "20.1",
+            "versionCode": 201,
             "usesSdk": {
               "minSdkVersion": 21
             }
