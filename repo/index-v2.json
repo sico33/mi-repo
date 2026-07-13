@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783862924211,
+    "timestamp": 1783903885545,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -217,104 +217,6 @@
           "manifest": {
             "versionName": "4.2.1",
             "versionCode": 56,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "app.azcode.tv": {
-      "metadata": {
-        "name": {
-          "en-US": "Chimichurri"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "app.azcode.tv_icon.png",
-            "sha256": "6302b4107db533f616ce69ca18a74612178a2b167c5ae0f5fa20b28f739b1732",
-            "size": 23935
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "chimichurritv-4.4.3.apk",
-            "sha256": "8e32aa6cc48a5d9151822d3afaaeff7875cb3ef231de9a81c4fea9d9e97b7a66",
-            "size": 4500573
-          },
-          "versionCode": 942,
-          "versionName": "4.4.3",
-          "manifest": {
-            "versionName": "4.4.3",
-            "versionCode": 942,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "io.gh.reisxd.tizentube.cobalt": {
-      "metadata": {
-        "name": {
-          "en-US": "TizenTube"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "io.gh.reisxd.tizentube.cobalt_icon.png",
-            "sha256": "bd5d78373cfe35627646f694a9df1dea766e873aebb42fda405301ce96ea09da",
-            "size": 53616
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "cobalt-arm.apk",
-            "sha256": "59c7a8655424947cae7b4c29a65e723fb4ba6ddb45863473dc2a612470aa1e85",
-            "size": 39211445
-          },
-          "versionCode": 108,
-          "versionName": "1.0.8",
-          "manifest": {
-            "versionName": "1.0.8",
-            "versionCode": 108,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        },
-        {
-          "file": {
-            "name": "cobalt-arm64.apk",
-            "sha256": "726201ee466bbd757bcef8d3cbd5bb3cc9e61726e5af6e9b567d3503f31b06ed",
-            "size": 41031277
-          },
-          "versionCode": 108,
-          "versionName": "1.0.8",
-          "manifest": {
-            "versionName": "1.0.8",
-            "versionCode": 108,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -577,47 +479,6 @@
           "manifest": {
             "versionName": "1.5.0",
             "versionCode": 242424,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.magmaplayer": {
-      "metadata": {
-        "name": {
-          "en-US": "Magma"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.magmaplayer_icon.png",
-            "sha256": "f25582522e7c2fe515dc505358477811f54b170824b461c29b3c87f6065e5253",
-            "size": 35690
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Magma 1.0.9 Lista agregada.25.06.apk",
-            "sha256": "787831848eaf70ba7793dbc48e34e7a19a90553e3ee83a071aff52b668e323a9",
-            "size": 42923019
-          },
-          "versionCode": 10,
-          "versionName": "1.0.9",
-          "manifest": {
-            "versionName": "1.0.9",
-            "versionCode": 10,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -1331,47 +1192,6 @@
           "manifest": {
             "versionName": "4.99.2",
             "versionCode": 49902,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.zuper.fire": {
-      "metadata": {
-        "name": {
-          "en-US": "ZUPER TV"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.zuper.fire_icon.png",
-            "sha256": "72bbc4730078409e1be1ced33cc61d5f2cfdab4bf4f6ec286e091844c607a483",
-            "size": 1059
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "ZUPER TV_1.48.apk",
-            "sha256": "722362a6c932a12c1d71e974b3d48683d604efc59d1b964fd72ea16285845042",
-            "size": 37637162
-          },
-          "versionCode": 20008,
-          "versionName": "1.48",
-          "manifest": {
-            "versionName": "1.48",
-            "versionCode": 20008,
             "usesSdk": {
               "minSdkVersion": 21
             }
