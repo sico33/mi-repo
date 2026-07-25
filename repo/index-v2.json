@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1783974278480,
+    "timestamp": 1784995027741,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -1126,15 +1126,15 @@
       "versions": [
         {
           "file": {
-            "name": "XuperTv-N0F4C3-v6.72.1.apk",
-            "sha256": "3bd9423f4c9efafa6821bf356b04c8ab5c8f0e5602aeb2e3f498fbae202038bc",
-            "size": 36169670
+            "name": "XuperTv-N0F4C3-ConR-v4.34.7.apk",
+            "sha256": "1b4bd3a8c96e0214ff3f0172bcc885a0417a77231afcbae2ec6d7b272017184f",
+            "size": 35706029
           },
-          "versionCode": 60703,
-          "versionName": "6.72.1",
+          "versionCode": 43407,
+          "versionName": "4.34.7",
           "manifest": {
-            "versionName": "6.72.1",
-            "versionCode": 60703,
+            "versionName": "4.34.7",
+            "versionCode": 43407,
             "usesSdk": {
               "minSdkVersion": 21
             }
