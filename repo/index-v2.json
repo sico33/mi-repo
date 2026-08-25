@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1784995027741,
+    "timestamp": 1787617801177,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -101,88 +101,6 @@
         }
       ]
     },
-    "app.aksports.live": {
-      "metadata": {
-        "name": {
-          "en-US": "AK47Sports"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "app.aksports.live_icon.png",
-            "sha256": "105aac51b9b71cfd6e60150741efe6e62688c060fc04abf6c965ecce5c129c6c",
-            "size": 57140
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "AK47Sports_1.6 (1).apk",
-            "sha256": "155c60abca8963de55d1c39d875b0defb331b948bd8c55c1ee2b7b2a65d66643",
-            "size": 12147246
-          },
-          "versionCode": 7,
-          "versionName": "1.6",
-          "manifest": {
-            "versionName": "1.6",
-            "versionCode": 7,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.angulismotv": {
-      "metadata": {
-        "name": {
-          "en-US": "AngulismoTV"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.angulismotv_icon.png",
-            "sha256": "0f42d6a59edad49abb291b4e1934c4e425744d9aee56072cadbfcce7d04f4a37",
-            "size": 154108
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "AngulismoTV.apk",
-            "sha256": "1981fbc4ba33a43961de8209e61c8d3c01cfe182b112fc8c12794cfa22145955",
-            "size": 10828443
-          },
-          "versionCode": 3,
-          "versionName": "1.2",
-          "manifest": {
-            "versionName": "1.2",
-            "versionCode": 3,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "com.atasoglou.autostartandstay": {
       "metadata": {
         "name": {
@@ -217,47 +135,6 @@
           "manifest": {
             "versionName": "4.2.1",
             "versionCode": 56,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.pro.cricztv": {
-      "metadata": {
-        "name": {
-          "en-US": "CricZ TV"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.pro.cricztv_icon.png",
-            "sha256": "35df5062e20730dd0cd8571f473a613d6a8a3c96fab2d14dfe6741b7197fa8dc",
-            "size": 25004
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "CricZ TV v7.3 - Ad-Free.apk",
-            "sha256": "ff2106d6a9030c3e0f86a423df5c04db24dbe68ecd5f43412d18d5676f9fdec5",
-            "size": 15729434
-          },
-          "versionCode": 10,
-          "versionName": "7.3",
-          "manifest": {
-            "versionName": "7.3",
-            "versionCode": 10,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -315,47 +192,6 @@
           "manifest": {
             "versionName": "1.4.4",
             "versionCode": 49,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.epixplay.plus": {
-      "metadata": {
-        "name": {
-          "en-US": "EPIX PLAY"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.epixplay.plus_icon.png",
-            "sha256": "b93e0655af283b8dae2ea18b3e9abe2d7f8a612c19867f1cacdd61207775d2aa",
-            "size": 20952
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "EPIX PLAY Premium v3.8a - androforever.com.apk",
-            "sha256": "bfcea0f54a769fcbd9d7c27b6d00c011d6fd3c203ab2a111cbecd139952636b8",
-            "size": 59491517
-          },
-          "versionCode": 18,
-          "versionName": "3.8a",
-          "manifest": {
-            "versionName": "3.8a",
-            "versionCode": 18,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -483,13 +319,29 @@
               "minSdkVersion": 21
             }
           }
+        },
+        {
+          "file": {
+            "name": "MagLink-Flow-TV.apk",
+            "sha256": "dd5ddebf4d3d53c3a346cab54312969dc96b9b7a0cb04ef301d06fb9cce79775",
+            "size": 36231225
+          },
+          "versionCode": 30,
+          "versionName": "3.0",
+          "manifest": {
+            "versionName": "3.0",
+            "versionCode": 30,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
         }
       ]
     },
-    "naranjitotv.aplimbw": {
+    "tv.mxlmovies.app": {
       "metadata": {
         "name": {
-          "en-US": "NaranjitoTV "
+          "en-US": "MXL MOVIES"
         },
         "summary": {
           "en-US": "App para Android TV"
@@ -502,24 +354,24 @@
         ],
         "icon": {
           "en-US": {
-            "name": "naranjitotv.aplimbw_icon.png",
-            "sha256": "daf2da661d0a469666f1cbd0886feb293f7c3fc4e583a03283680c5c9a2dd274",
-            "size": 488671
+            "name": "tv.mxlmovies.app_icon.png",
+            "sha256": "ecea3959f19e0dc72709c6f51481ee452202dcc1830c1bb3870e1dff27924d82",
+            "size": 16023
           }
         }
       },
       "versions": [
         {
           "file": {
-            "name": "NaranjitoTV _9.8 (1).apk",
-            "sha256": "846923ef1d661bc697288965bc962f96feaa5d0649618638bf5774719432f346",
-            "size": 33301953
+            "name": "movies-nogms-tvbox.apk",
+            "sha256": "3c3ea5ba2237a67f8328c00f07b46de55210ef82a311f6857b14ce4e29899193",
+            "size": 42394324
           },
-          "versionCode": 3,
-          "versionName": "9.8",
+          "versionCode": 60,
+          "versionName": "2.5.2-tvbox",
           "manifest": {
-            "versionName": "9.8",
-            "versionCode": 3,
+            "versionName": "2.5.2-tvbox",
+            "versionCode": 60,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -609,47 +461,6 @@
         }
       ]
     },
-    "com.m3u.smartphone": {
-      "metadata": {
-        "name": {
-          "en-US": "Netxxus Go"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.m3u.smartphone_icon.png",
-            "sha256": "f986d948fe7bb8bd6b75225814b78450c17e1d44c928bc2258b5e5791e3c7dda",
-            "size": 2493939
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Netxxus Go_1.15.0.apk",
-            "sha256": "c6eb6ce26b5b29858d32265387d06d8e3fead7500dd64c9c1343642a7550ae19",
-            "size": 37227744
-          },
-          "versionCode": 144,
-          "versionName": "1.15.0",
-          "manifest": {
-            "versionName": "1.15.0",
-            "versionCode": 144,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "com.playtv.premium": {
       "metadata": {
         "name": {
@@ -684,6 +495,47 @@
           "manifest": {
             "versionName": "20.1",
             "versionCode": 201,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.playtv.pro": {
+      "metadata": {
+        "name": {
+          "en-US": "PlayTV Pro"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.playtv.pro_icon.png",
+            "sha256": "feeee38a5d195d6d95fb02cbae86bdd18378f69f2a9dcfe402fd39bd23d3dab1",
+            "size": 3160
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "PlayTV-Pro-1(2).apk",
+            "sha256": "38e57ac4843a92480f0832cfc3895ce52802cf9fdbef34144c881d21f2e1aa02",
+            "size": 24588088
+          },
+          "versionCode": 1,
+          "versionName": "1.0",
+          "manifest": {
+            "versionName": "1.0",
+            "versionCode": 1,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -790,7 +642,7 @@
         "icon": {
           "en-US": {
             "name": "com.saltamontes.app_icon.png",
-            "sha256": "e1dfd4da3e331199bf258fb7333bb7487984e6ac505436ac95e730951f479340",
+            "sha256": "6f303720408d30f6656b750e5f47837300cdaed036e6b8e679cb476c178853fc",
             "size": 11580
           }
         }
@@ -807,211 +659,6 @@
           "manifest": {
             "versionName": "1.8.1",
             "versionCode": 13,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "stream.tvbox": {
-      "metadata": {
-        "name": {
-          "en-US": "Stream TV Box"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "stream.tvbox_icon.png",
-            "sha256": "c4453d5ecd011d7e0bfc63276b87d811fa75106d1f349ab763ce55b65d14bca8",
-            "size": 43463
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Stream TV Box_9.8 (3).apk",
-            "sha256": "3706b2bf5e1eee0da8892b45bbea73661661bc98f7b4992f9f00bf49a50520a4",
-            "size": 33632631
-          },
-          "versionCode": 2,
-          "versionName": "9.8",
-          "manifest": {
-            "versionName": "9.8",
-            "versionCode": 2,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.streamflixreborn.streamflix": {
-      "metadata": {
-        "name": {
-          "en-US": "Streamflix"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.streamflixreborn.streamflix_icon.png",
-            "sha256": "a9363c5a06762821bec216aa791eb7fb0f40b4c8fcc270c54f6e37dca85d9351",
-            "size": 11391
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "streamflix-v1.7.225.apk",
-            "sha256": "1be9062ab34fe71c5b9e8259670820ef11b105369cc6f1bfe5e15b2d9f5e1df1",
-            "size": 19428040
-          },
-          "versionCode": 154,
-          "versionName": "1.7.225",
-          "manifest": {
-            "versionName": "1.7.225",
-            "versionCode": 154,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.google.android.suffixed": {
-      "metadata": {
-        "name": {
-          "en-US": "Suffixed"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.google.android.suffixed_icon.png",
-            "sha256": "f8a37e1c83961eaf7c37630f3153a8ffe56c6481040fcd2173e7dc60c63fc76e",
-            "size": 31714
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Suffixed_7.0.apk",
-            "sha256": "e46aa65ef417f07ff017ff230b414614eea4174f55bc0ec6b485919b7a106e86",
-            "size": 12595325
-          },
-          "versionCode": 7,
-          "versionName": "7.0",
-          "manifest": {
-            "versionName": "7.0",
-            "versionCode": 7,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.example.tvplusdos": {
-      "metadata": {
-        "name": {
-          "en-US": "TV PLUS 2"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.example.tvplusdos_icon.png",
-            "sha256": "593699c113551bee874a048a3532badc723728138a8ae6af691e4fa18c6e9cf5",
-            "size": 974310
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "tvplus2-2026.apk",
-            "sha256": "fa24ff9bc8fabe4858eadf2d6a4dd7119a7ca75391596d21a14759a6cfbc42ea",
-            "size": 10574597
-          },
-          "versionCode": 6,
-          "versionName": "1.6",
-          "manifest": {
-            "versionName": "1.6",
-            "versionCode": 6,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.example.vptv": {
-      "metadata": {
-        "name": {
-          "en-US": "VPTV"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.example.vptv_icon.png",
-            "sha256": "50871c1e8c7ae1fa681ff48637aac4c3192e88773060acc653de33094cdef45c",
-            "size": 260906
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "VPTV_5.12.apk",
-            "sha256": "1193b978e0bb0038d95b0cbb5a9e8d97767b47702205950b074a1d179ef43c42",
-            "size": 27379700
-          },
-          "versionCode": 36,
-          "versionName": "5.12",
-          "manifest": {
-            "versionName": "5.12",
-            "versionCode": 36,
             "usesSdk": {
               "minSdkVersion": 21
             }
