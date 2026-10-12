@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1790127668822,
+    "timestamp": 1791813469319,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -331,6 +331,47 @@
           "manifest": {
             "versionName": "3.0",
             "versionCode": 30,
+            "usesSdk": {
+              "minSdkVersion": 21
+            }
+          }
+        }
+      ]
+    },
+    "com.community.mbox.tvN0F4C3": {
+      "metadata": {
+        "name": {
+          "en-US": "MovieBoxTV"
+        },
+        "summary": {
+          "en-US": "App para Android TV"
+        },
+        "description": {
+          "en-US": "Repositorio personal"
+        },
+        "categories": [
+          "Personal"
+        ],
+        "icon": {
+          "en-US": {
+            "name": "com.community.mbox.tvN0F4C3_icon.png",
+            "sha256": "8e72b44c07f1d62ebdf3c7754872c94d97d6c311bdad4a3b693d2320613e76a8",
+            "size": 53496
+          }
+        }
+      },
+      "versions": [
+        {
+          "file": {
+            "name": "MovieBoxTV-Premium-ModByNF.apk",
+            "sha256": "d085307a30f1d5c448f9681c0a4cae2b22c9695f6487a28655ca716d39166f30",
+            "size": 41183444
+          },
+          "versionCode": 50040018,
+          "versionName": "1.1.9.0820.04",
+          "manifest": {
+            "versionName": "1.1.9.0820.04",
+            "versionCode": 50040018,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -765,23 +806,23 @@
         "icon": {
           "en-US": {
             "name": "com.android.mgstxNF_icon.png",
-            "sha256": "93a09ef6d8a5a5dee1790fe813aae0125018ef0e747aefd7ea9f9b8454c87e17",
-            "size": 90024
+            "sha256": "99dacd33378d02bcfcfab03f1b74574d94d37f5410d0f642c836522f95359dbd",
+            "size": 46266
           }
         }
       },
       "versions": [
         {
           "file": {
-            "name": "XuperTv-NF-ModByNF-v4.34.9.apk",
-            "sha256": "6ee9f00b89aa22ce499577cc1622b1d9765f53211281833e9b8ddef64822cdc9",
-            "size": 33556653
+            "name": "XuperTv-N0F4C3-v4.35.0-OFICIAL-ModByNF.apk",
+            "sha256": "c9c12fb0dec5078ae9686a76e7ef3a046a56437e1db3110eff105ddfa18c95a0",
+            "size": 34221253
           },
-          "versionCode": 43409,
-          "versionName": "4.34.9",
+          "versionCode": 43500,
+          "versionName": "4.35.0",
           "manifest": {
-            "versionName": "4.34.9",
-            "versionCode": 43409,
+            "versionName": "4.35.0",
+            "versionCode": 43500,
             "usesSdk": {
               "minSdkVersion": 21
             }
