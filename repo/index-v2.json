@@ -3,7 +3,7 @@
     "name": {
       "en-US": "Mi Repo TV Test"
     },
-    "timestamp": 1791813469319,
+    "timestamp": 1794946501171,
     "version": 40001,
     "address": "https://sico33.github.io/mi-repo/repo/",
     "description": {
@@ -142,10 +142,10 @@
         }
       ]
     },
-    "com.esaba.downloader": {
+    "org.clipbox.player": {
       "metadata": {
         "name": {
-          "en-US": "Downloader"
+          "en-US": "ClipBox"
         },
         "summary": {
           "en-US": "App para Android TV"
@@ -158,40 +158,24 @@
         ],
         "icon": {
           "en-US": {
-            "name": "com.esaba.downloader_icon.png",
-            "sha256": "953535d8208484412c7073c9596a8e5cb67c146bfde1d1a2985703e2e3755b56",
-            "size": 1345
+            "name": "org.clipbox.player_icon.png",
+            "sha256": "b07b4a5144453062dc57f35e3d5ba724b5cffcf5768736438ebb44d8660b62b4",
+            "size": 16532
           }
         }
       },
       "versions": [
         {
           "file": {
-            "name": "downloader-by-aftvnews-1-5-0-forgoogleandroiddevices.apk",
-            "sha256": "af4e08e540c87b34375a6bffd9387d06e618759cd68685f237f8b1a02e0bd83e",
-            "size": 5995174
+            "name": "ClipBox-1.6.3.1-Vip-ModByNF.apk",
+            "sha256": "8d9a47dba6d97d8cd9083cfea32dc60d1e01a3e43c1b2ed6681ac347af820e8f",
+            "size": 27753291
           },
-          "versionCode": 58,
-          "versionName": "1.5.0-ForGoogleAndroidDevices",
+          "versionCode": 1631,
+          "versionName": "1.6.3.1",
           "manifest": {
-            "versionName": "1.5.0-ForGoogleAndroidDevices",
-            "versionCode": 58,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        },
-        {
-          "file": {
-            "name": "Downloader_1.4.4.apk",
-            "sha256": "534611ced67a4aeb9a71dd057bb27fde4420bbe4d059493f79c631b4fd25370d",
-            "size": 2534108
-          },
-          "versionCode": 49,
-          "versionName": "1.4.4",
-          "manifest": {
-            "versionName": "1.4.4",
-            "versionCode": 49,
+            "versionName": "1.6.3.1",
+            "versionCode": 1631,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -233,104 +217,6 @@
           "manifest": {
             "versionName": "4.0.4",
             "versionCode": 45,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.nst.iptvsmarterstvbox": {
-      "metadata": {
-        "name": {
-          "en-US": "IPTV Smarters Pro"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.nst.iptvsmarterstvbox_icon.png",
-            "sha256": "2d75764d9c5ded2759ab86c0d87f2b856abd54dc3a1e5bbe7f40a658da6e1085",
-            "size": 33019
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "IPTV Smarters Pro v5.0 (Premium).apk",
-            "sha256": "673d07e65a7986f617300a40861b477e2de45650e58aab2e68cc0518f783bc24",
-            "size": 73565765
-          },
-          "versionCode": 108,
-          "versionName": "5.0",
-          "manifest": {
-            "versionName": "5.0",
-            "versionCode": 108,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.example.maglinktv.net": {
-      "metadata": {
-        "name": {
-          "en-US": "MagLink TV"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.example.maglinktv.net_icon.png",
-            "sha256": "8e714e13dd67b4acabad7990d5c5245ce58562ddbf55447ea9120358b1a63cff",
-            "size": 18135
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "MagLink TV 1.5.0.world_tv.apk",
-            "sha256": "428a5aebd19baef3affd1ee7c5770b715fe168aa5ab35afa60541e5802e6a1f2",
-            "size": 23790627
-          },
-          "versionCode": 242424,
-          "versionName": "1.5.0",
-          "manifest": {
-            "versionName": "1.5.0",
-            "versionCode": 242424,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        },
-        {
-          "file": {
-            "name": "MagLink-Flow-TV.apk",
-            "sha256": "dd5ddebf4d3d53c3a346cab54312969dc96b9b7a0cb04ef301d06fb9cce79775",
-            "size": 36231225
-          },
-          "versionCode": 30,
-          "versionName": "3.0",
-          "manifest": {
-            "versionName": "3.0",
-            "versionCode": 30,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -420,88 +306,6 @@
         }
       ]
     },
-    "com.netflix.ninja": {
-      "metadata": {
-        "name": {
-          "en-US": "Netflix"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.netflix.ninja_icon.png",
-            "sha256": "668675aa74b5d91a594cfcae464a08b078a31228755c15e3b4e90e6a89a4dddd",
-            "size": 1489
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Netflix_13.1.0 build 26026.apk",
-            "sha256": "7f154d9a429baf6cca55c6754319ea82cc7e342869035b76c0d395c0ce8fde28",
-            "size": 6187276
-          },
-          "versionCode": 26026,
-          "versionName": "13.1.0 build 26026",
-          "manifest": {
-            "versionName": "13.1.0 build 26026",
-            "versionCode": 26026,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "net.felectronika.netvideo.netvideo": {
-      "metadata": {
-        "name": {
-          "en-US": "Netvideo"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "net.felectronika.netvideo.netvideo_icon.png",
-            "sha256": "af4559643a8c05c6f5b6e30c3292ba4c3ed0cd6e51d6f73f9149a152ac951dbb",
-            "size": 2251
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Netvideo_1.27.apk",
-            "sha256": "4c2f58efd320848e1ff391e3af89a62f8815a67309974b7bf5b89ddc17647c11",
-            "size": 4427546
-          },
-          "versionCode": 27,
-          "versionName": "1.27",
-          "manifest": {
-            "versionName": "1.27",
-            "versionCode": 27,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "com.playtv.premium": {
       "metadata": {
         "name": {
@@ -536,47 +340,6 @@
           "manifest": {
             "versionName": "20.1",
             "versionCode": 201,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.playtv.pro": {
-      "metadata": {
-        "name": {
-          "en-US": "PlayTV Pro"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.playtv.pro_icon.png",
-            "sha256": "feeee38a5d195d6d95fb02cbae86bdd18378f69f2a9dcfe402fd39bd23d3dab1",
-            "size": 3160
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "PlayTV-Pro-1(2).apk",
-            "sha256": "38e57ac4843a92480f0832cfc3895ce52802cf9fdbef34144c881d21f2e1aa02",
-            "size": 24588088
-          },
-          "versionCode": 1,
-          "versionName": "1.0",
-          "manifest": {
-            "versionName": "1.0",
-            "versionCode": 1,
             "usesSdk": {
               "minSdkVersion": 21
             }
@@ -666,129 +429,6 @@
         }
       ]
     },
-    "com.saltamontes.app": {
-      "metadata": {
-        "name": {
-          "en-US": "Saltamontes"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.saltamontes.app_icon.png",
-            "sha256": "6f303720408d30f6656b750e5f47837300cdaed036e6b8e679cb476c178853fc",
-            "size": 11580
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Saltamontes-Public-v1.8.1.apk",
-            "sha256": "cead5ba9d4bd77ff6b1944ddcdd112d64a13acc706035083ceec8a8afdb4b61d",
-            "size": 51210082
-          },
-          "versionCode": 13,
-          "versionName": "1.8.1",
-          "manifest": {
-            "versionName": "1.8.1",
-            "versionCode": 13,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.google.android.youtube.tvpremium12": {
-      "metadata": {
-        "name": {
-          "en-US": "Xuper"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.google.android.youtube.tvpremium12_icon.png",
-            "sha256": "4e4dd774356b5fd8d2cceb8747814ceec364f83dbac3e30532f895fd806c8abe",
-            "size": 70179
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Xuper Premium v4.99.5 - androforever.com.apk",
-            "sha256": "23409129bcaf5449172d0af899307743b746acf7f74e8ec62b346b4d346bfadc",
-            "size": 70128224
-          },
-          "versionCode": 49903,
-          "versionName": "4.99.5",
-          "manifest": {
-            "versionName": "4.99.5",
-            "versionCode": 49903,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.xuper.netxxus": {
-      "metadata": {
-        "name": {
-          "en-US": "Xuper Hydra"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.xuper.netxxus_icon.png",
-            "sha256": "ef8f233bf975cba0c92f7f69ecb53bb47942d827ef1f08e97a784e1bbd54ccf4",
-            "size": 739613
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Xuper.Hydra.Nuevo.2.apk",
-            "sha256": "afa10a15c212d088a7b7f9148ddb679b1feb154d898db35274e832a347a0aeb5",
-            "size": 35936833
-          },
-          "versionCode": 43404,
-          "versionName": "4.34.4",
-          "manifest": {
-            "versionName": "4.34.4",
-            "versionCode": 43404,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
     "com.android.mgstxNF": {
       "metadata": {
         "name": {
@@ -814,113 +454,15 @@
       "versions": [
         {
           "file": {
-            "name": "XuperTv-N0F4C3-v4.35.0-OFICIAL-ModByNF.apk",
-            "sha256": "c9c12fb0dec5078ae9686a76e7ef3a046a56437e1db3110eff105ddfa18c95a0",
-            "size": 34221253
+            "name": "XuperTv-NF-v4.35.1-ModByNF.apk",
+            "sha256": "0b76f3891d858fa55b9ad6fffef4f47a4cdeee910f036d6b3322287130b9b333",
+            "size": 51374730
           },
-          "versionCode": 43500,
-          "versionName": "4.35.0",
+          "versionCode": 43501,
+          "versionName": "4.35.1",
           "manifest": {
-            "versionName": "4.35.0",
-            "versionCode": 43500,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.android.nwm2026xpr": {
-      "metadata": {
-        "name": {
-          "en-US": "Xuper"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.android.nwm2026xpr_icon.png",
-            "sha256": "4fb261a9a333f4c86bbe4cef3a298b51572d5bf32075ca7116d1231debc965d0",
-            "size": 19105
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Xuper_4.34.4.apk",
-            "sha256": "61daf4ac9fa01734232631e4328798af69233e1e53dc929f2db4ec430fc14208",
-            "size": 33949677
-          },
-          "versionCode": 43404,
-          "versionName": "4.34.4",
-          "manifest": {
-            "versionName": "4.34.4",
-            "versionCode": 43404,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        },
-        {
-          "file": {
-            "name": "XUPER_TV_4K (wsp 2252 402206).apk",
-            "sha256": "61daf4ac9fa01734232631e4328798af69233e1e53dc929f2db4ec430fc14208",
-            "size": 33949677
-          },
-          "versionCode": 43404,
-          "versionName": "4.34.4",
-          "manifest": {
-            "versionName": "4.34.4",
-            "versionCode": 43404,
-            "usesSdk": {
-              "minSdkVersion": 21
-            }
-          }
-        }
-      ]
-    },
-    "com.android.mgstw": {
-      "metadata": {
-        "name": {
-          "en-US": "Xuper"
-        },
-        "summary": {
-          "en-US": "App para Android TV"
-        },
-        "description": {
-          "en-US": "Repositorio personal"
-        },
-        "categories": [
-          "Personal"
-        ],
-        "icon": {
-          "en-US": {
-            "name": "com.android.mgstw_icon.png",
-            "sha256": "eba26674634f350d1694c0b1b81c9efa5ef801f799021955ad1197b1f345a595",
-            "size": 9577
-          }
-        }
-      },
-      "versions": [
-        {
-          "file": {
-            "name": "Xuper_4.99.2.apk",
-            "sha256": "eab2f13dfee8b82cfe63d26436f27b0e29e4551ce7fde8df8c1af826e97394eb",
-            "size": 60952576
-          },
-          "versionCode": 49902,
-          "versionName": "4.99.2",
-          "manifest": {
-            "versionName": "4.99.2",
-            "versionCode": 49902,
+            "versionName": "4.35.1",
+            "versionCode": 43501,
             "usesSdk": {
               "minSdkVersion": 21
             }
